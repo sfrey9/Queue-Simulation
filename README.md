@@ -1,2 +1,2 @@
 # Queue-Simulation
-simulates a service queue similar to a bank queue or checkout
+a discrete even simulation to model a service queue similar to a bank queue or checkout
